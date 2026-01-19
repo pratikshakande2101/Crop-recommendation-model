@@ -3,22 +3,19 @@
 ### Overview
 Machine learning–based system that recommends suitable crops using soil nutrients and environmental conditions.
 
-## Dataset
+### Dataset
 Public Crop Recommendation Dataset from Kaggle.
 
-## Models Used
+### Models Used
 Decision Tree, Random Forest, Naïve Bayes, Support Vector Machine (SVM), Logistic Regression.
 
-## Tools
+### Tools
 Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook.
 
-## Project Artifacts
+### Project Artifacts
 - Python source code and Jupyter notebook  
 - Public dataset (CSV)  
 - Academic project report (PDF) including results and visualizations  
 
-## Outcome
+### Outcome
 Naïve Bayes achieved the best performance and was selected as the final model.
-
-## Author
-**Pratiksha Kande**
