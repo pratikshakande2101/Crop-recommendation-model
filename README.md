@@ -18,4 +18,4 @@ Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook.
 - Academic project report (PDF) including results and visualizations  
 
 ### Outcome
-Naïve Bayes achieved the best performance and was selected as the final model.
+Naive Bayes achieved the best performance and was selected as the final model.
